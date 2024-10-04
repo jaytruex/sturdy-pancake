@@ -1,0 +1,24 @@
+{
+  "name": "sturdy-pancake",
+  "version": "1.0.0",
+  "description": "scraper for indeed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaytruex/sturdy-pancake.git"
+  },
+  "author": "j truex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaytruex/sturdy-pancake/issues"
+  },
+  "homepage": "https://github.com/jaytruex/sturdy-pancake#readme",
+  "dependencies": {
+    "chromedriver": "^129.0.2",
+    "fs": "^0.0.1-security",
+    "selenium-webdriver": "^4.25.0"
+  }
+}
